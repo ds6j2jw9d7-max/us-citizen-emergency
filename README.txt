@@ -1,0 +1,1 @@
+This folder is the complete web app. It must be published at an HTTPS web address before an iPhone can add it to the Home Screen. Once hosted, open the URL in Safari and use Share → Add to Home Screen. The site includes a manifest and service worker for an app-like Home Screen experience and offline caching after first load.
